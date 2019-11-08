@@ -1,1 +1,1 @@
-Worker: Python tek.py
+Worker: Python bot.py
